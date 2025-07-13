@@ -55,21 +55,9 @@ This project applies K-Means clustering to the [Online Retail II dataset](https:
 
 ---
 
-### **How to Use**
-1. Clone the repository.
-2. Place the dataset (online_retail_II.csv) in the `data/` directory.
-3. Run the Jupyter notebook cluster.ipynb to reproduce the analysis and visualizations.
-
----
-
 ### **Dependencies**
 - Python 3.x
-- pandas, numpy, matplotlib, seaborn, scikit-learn, missingno, plotly
-
----
-
-### **License**
-MIT License
+- pandas, numpy, matplotlib, seaborn, scikit-learn, missingno
 
 ---
 
